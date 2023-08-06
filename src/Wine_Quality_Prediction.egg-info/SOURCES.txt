@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/Wine Quality Prediction/__init__.py
+src/Wine Quality Prediction/components/__init__.py
+src/Wine Quality Prediction/config/__init__.py
+src/Wine Quality Prediction/config/configuration.py
+src/Wine Quality Prediction/constants/__init__.py
+src/Wine Quality Prediction/entity/__init__.py
+src/Wine Quality Prediction/entity/config_entity.py
+src/Wine Quality Prediction/pipeline/__init__.py
+src/Wine Quality Prediction/utils/__init__.py
+src/Wine Quality Prediction/utils/common.py
+src/Wine_Quality_Prediction.egg-info/PKG-INFO
+src/Wine_Quality_Prediction.egg-info/SOURCES.txt
+src/Wine_Quality_Prediction.egg-info/dependency_links.txt
+src/Wine_Quality_Prediction.egg-info/top_level.txt
